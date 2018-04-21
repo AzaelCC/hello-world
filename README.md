@@ -1,4 +1,5 @@
 # hello-world
-The tradition
-Well, seemes like you're looking for something you will not find right here.. 
+The tradition 
+
+Well, seems like you're looking for something you will not find right here.. 
 You might want to check out my other projects! (Once I make them though)
